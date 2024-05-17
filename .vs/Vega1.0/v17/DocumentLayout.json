@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Core\\Vega1.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43B5597B-99F9-4DF9-BEC8-8BE8696A059A}|Vega1.0.Server\\Vega1.0.Server.csproj|d:\\core\\vega1.0\\vega1.0.server\\vega1.0.server.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{43B5597B-99F9-4DF9-BEC8-8BE8696A059A}|Vega1.0.Server\\Vega1.0.Server.csproj|solutionrelative:vega1.0.server\\vega1.0.server.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Vega1.0.Server",
+              "DocumentMoniker": "D:\\Core\\Vega1.0\\Vega1.0.Server\\Vega1.0.Server.csproj",
+              "RelativeDocumentMoniker": "Vega1.0.Server\\Vega1.0.Server.csproj",
+              "ToolTip": "D:\\Core\\Vega1.0\\Vega1.0.Server\\Vega1.0.Server.csproj",
+              "RelativeToolTip": "Vega1.0.Server\\Vega1.0.Server.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-16T19:47:13.64Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

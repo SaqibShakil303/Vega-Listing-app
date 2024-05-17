@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:4200",
+"RedirectUrl": "",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "D:\\Core\\Vega1.0\\Vega1.0.Server\\..\\vega1.0.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

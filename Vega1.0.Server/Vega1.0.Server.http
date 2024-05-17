@@ -1,0 +1,6 @@
+@Vega1._0.Server_HostAddress = http://localhost:5216
+
+GET {{Vega1._0.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
